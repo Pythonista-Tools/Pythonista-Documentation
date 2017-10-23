@@ -36,7 +36,7 @@ A: https://forum.omz-software.com/category/5/pythonista
 Q: Where can I find examples of what other people are doing with Pythonista?<br/>
 A: https://github.com/Pythonista-Tools/Pythonista-Tools
 
-Q: Where can I post issues that I find when using Pythonista?<br/>
+Q: Where can I [create an issue](https://github.com/omz/Pythonista-Issues/issues/new) about a problem that I have when using Pythonista?<br/>
 A: https://github.com/omz/Pythonista-Issues
 
 Q: Is pandas supported yet?  Any plans to support pandas?<br/>
