@@ -1,4 +1,4 @@
-# Pythonista-Documentation
+# Pythonista Documentation (unofficial)
 
 The __real,__ official Pythonista documentation can be found at http://omz-software.com/pythonista/docs/
 
@@ -29,6 +29,9 @@ A: That isn't even a question
 
 Q: How to I install <xxxxx> package?<br/>
 A: Install [stash](https://github.com/ywangd/stash), then use the `pip` command
+
+Q: Where can I ask questions about Pythonista?<br/>
+A: https://forum.omz-software.com/category/5/pythonista
 
 Q: Where can I find examples of what other people are doing with Pythonista?<br/>
 A: https://github.com/Pythonista-Tools/Pythonista-Tools
