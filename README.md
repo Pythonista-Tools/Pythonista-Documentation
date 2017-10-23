@@ -1,7 +1,8 @@
 # Pythonista-Documentation
-__Unofficial__ community colaboration around Pythonista documentation...
 
 The __real,__ official Pythonista documentation can be found at http://omz-software.com/pythonista/docs/
+
+This repo is for __unofficial__ community colaboration around Pythonista documentation...
 
 ---
 
@@ -28,6 +29,12 @@ A: That isn't even a question
 
 Q: How to I install <xxxxx> package?<br/>
 A: Install [stash](https://github.com/ywangd/stash), then use the `pip` command
+
+Q: Where can I find examples of what other people are doing with Pythonista?<br/>
+A: https://github.com/Pythonista-Tools/Pythonista-Tools
+
+Q: Where can I post issues that I find when using Pythonista?<br/>
+A: https://github.com/omz/Pythonista-Issues
 
 Q: Is pandas supported yet?  Any plans to support pandas?<br/>
 A: No
