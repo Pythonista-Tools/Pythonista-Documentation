@@ -10,7 +10,7 @@ This repo is for __unofficial__ community colaboration around Pythonista documen
 
 Q: What versions of Python does Pythonista support?<br/>
 A: Pythonista 2 supports Python 2.7.12
-   Pythonista 3 supports Python 3.5.1 and 2.7.12
+   Pythonista 3 supports Python 3.6.1 and 2.7.12
 
 Q: Is pandas supported in Pythonista?<br/>
 A: No
