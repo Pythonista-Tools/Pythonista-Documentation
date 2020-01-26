@@ -27,7 +27,7 @@ A: No
 Q: +1 for pandas support<br/>
 A: That isn't even a question
 
-Q: How do I install <xxxxx> package?<br/>
+Q: How do I install <xxx<xxx>> package?<br/>
 A: Install [stash](https://github.com/ywangd/stash), then use the `pip` command
 
 Q: Where can I ask questions about Pythonista?<br/>
